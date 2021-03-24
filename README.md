@@ -14,3 +14,4 @@ We further preprocessed our data with the following steps:
 </BR>
 Here’s our model architecture: </BR>
 
+![Alt text](img/architecture.png?raw=true "Model Architecure")
